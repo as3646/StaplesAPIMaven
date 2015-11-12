@@ -1,0 +1,20 @@
+{
+  "ShipToIdentifier": [
+    {
+      "city": "FRAMINGHAM",
+      "shipToID": "400114873",
+      "shipToName": "LINK-CHI",
+      "state": "MA"
+    }
+  ],
+  "isAllowedToApproveOrders": "false",
+  "masterAccountNumber": "200081260",
+  "pendingOrderApprovalCount": "0",
+  "resourceId": "https://aadvq11nwbv01.staples.com:443/wcs/resources/v1/member/login",
+  "resourceName": "member",
+  "responseCode": "200",
+  "responseMessage": "SUCCESS",
+  "userId": "7603622667",
+  "wcToken": "7603622667%2c4gFIlmtwOk%2fBTgyVB6qj3SkG7FE2OujmJYazuvWvdBHsVMOMB8Ifzm1%2f%2b%2bOZ8%2boKp%2fyxeRSjbnOH%0ahesewxDDXPkVIChRfsK0%2f7zUfXAIZ2Xug40aDh%2blyKAdjPPdaqD95Z1NCMJUoD31bGsUtLkk6w%3d%3d",
+  "wcTrustedToken": "7603622667%2ccnJAlAEPAYQFTs%2fkYnmIemVPfgQ%3d"
+}

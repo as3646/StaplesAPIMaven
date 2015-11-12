@@ -1,0 +1,177 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.logo-img {
+	width: 145px;
+	height: 55px;
+}
+
+
+.navbar {
+	border-bottom: 3px solid crimson;
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+/* .log-btn {
+	margin-left: 0;
+	border: none;
+	background-color: #005883;
+	width: 105px;
+	color: crimson;
+	height: 33px;
+	margin-top: -5px;
+	font-size: 1em;
+	text-align: center;
+	font-family: "HelveticaNeueW01-75Bold";
+	cursor: pointer;
+	padding: 0;
+}
+
+.oth-btn {
+	margin-left: 0;
+	border: none;
+	background-color: #005883;
+	width: 105px;
+	color: crimson;
+	height: 33px;
+	margin-top: -9px;
+	font-size: 1em;
+	text-align: center;
+	font-family: "HelveticaNeueW01-75Bold";
+	cursor: pointer;
+	padding: 0;
+} */
+.btn-default {
+	height: 34px;
+}
+#cart{
+	color: white;
+}
+
+#cart-anch{
+	margin-top: 7px;
+	padding: 0px;
+	font-size: 16px;
+}
+
+.navbar-anch{
+	margin-top: 4px;
+	padding: 0px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+a {
+	color: black;
+	height: 33px;
+	padding-top: 5px;
+}
+
+a:hover {
+	background-color: transparent;
+	text-decoration: none;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.static-ftr-slink-space {
+	text-decoration: none;
+	color: black;
+	padding: 18px 0 18px 6px;
+}
+
+.ftr-slink {
+	margin-top: 5px;
+	display: inline-block;
+	padding-left: 20px;
+}
+
+.ftr-anch{
+	color: black;
+	
+}
+
+.ftr-anch:hover{
+	color:black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.static-nav-slink-space{
+	color: white;
+	text-decoration: none;
+	padding-left: 2px;
+	padding-top: -2px;
+}
+
+.logo-footer{
+	text-decoration: none;
+}
+
+.form-control {
+	width: 300px;
+	height: 34px;
+	margin-bottom: 5px;
+}
+
+#ext{
+	width: 50px;
+}
+
+.err-msg{
+	color: red;
+}

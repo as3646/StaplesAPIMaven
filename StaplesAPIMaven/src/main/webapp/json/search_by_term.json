@@ -1,0 +1,72 @@
+{
+  "product": [
+    {
+      "ProductImage": [
+        {
+          "imageType": "thumb",
+          "imageURL": "s0737347_sc7"
+        },
+        {
+          "imageType": "full",
+          "imageURL": "s0737347_sc7"
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "value": "259.96"
+      },
+      "shortDescription": "Beats By Dr. Dre Studio Over-Ear Headphone, Orange",
+      "sku": "063571",
+      "uom": "EA",
+      "uomQty": "1"
+    },
+    {
+      "ProductImage": [
+        {
+          "imageType": "thumb",
+          "imageURL": "s0403253_sc7"
+        },
+        {
+          "imageType": "full",
+          "imageURL": "s0403253_sc7"
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "value": "170.96"
+      },
+      "shortDescription": "Beats By Dr. Dre Tour with ControlTalk&#8482; High Performance In-Ear Headphones",
+      "sku": "917159",
+      "uom": "EA",
+      "uomQty": "1"
+    },
+    {
+      "ProductImage": [
+        {
+          "imageType": "thumb",
+          "imageURL": "s0674794_sc7"
+        },
+        {
+          "imageType": "full",
+          "imageURL": "s0674794_sc7"
+        }
+      ],
+      "price": {
+        "currency": "USD",
+        "value": "2.90"
+      },
+      "shortDescription": "Trend Enterprises&#174; ARGUS&#174; Poster, Its Hard To Beat Someone Who Never Gives Up",
+      "sku": "691366",
+      "uom": "EA",
+      "uomQty": "1"
+    }
+  ],
+  "recordSetComplete": "true",
+  "recordSetCount": "3",
+  "recordSetStartNumber": "0",
+  "recordSetTotal": "3",
+  "resourceId": "https://aadvq11nwbv01.staples.com:443/wcs/resources/v1/search/term",
+  "resourceName": "search",
+  "responseCode": "200",
+  "responseMessage": "SUCCESS"
+}

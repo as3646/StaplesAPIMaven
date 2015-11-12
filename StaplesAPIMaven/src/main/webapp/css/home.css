@@ -1,0 +1,150 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	margin: 0 px;
+}
+
+
+.log-btn {
+	margin-left: 0;
+	border: none;
+	background-color: #005883;
+	width: 105px;
+	color: #FFF;
+	height: 33px;
+	margin-top: -5px;
+	font-size: 1em;
+	text-align: center;
+	font-family: "HelveticaNeueW01-75Bold";
+	cursor: pointer;
+	padding: 0;
+}
+
+.oth-btn {
+	margin-left: 0;
+	border: none;
+	background-color: #005883;
+	width: 105px;
+	color: #FFF;
+	height: 33px;
+	margin-top: -9px;
+	font-size: 1em;
+	text-align: center;
+	font-family: "HelveticaNeueW01-75Bold";
+	cursor: pointer;
+	padding: 0;
+}
+
+.input-group .form-control {
+	height: 28px;
+}
+
+a {
+	color: #005883;
+	height: 33px;
+	padding-top: 5px;
+}
+
+a:hover {
+	background-color: transparent;
+	text-decoration: none;
+}
+
+i {
+	color: white;
+}
+
+.navbar {
+	border-bottom: 1px solid #C0C0C0;
+}
+
+.static-ftr-slink-space {
+	text-decoration: none;
+	color: white;
+	padding: 18px 0 18px 6px;
+}
+
+footer {
+	background-color: black;
+	bottom: 0;
+	position:fixed;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 60px;
+	margin-left: 0px;
+	margin-top: 50px;
+}
+
+.ftr-slink {
+	margin-top: 5px;
+	display: inline-block;
+	padding-left: 20px;
+}
+
+.ftr-anch{
+	color: white;
+}
+
+.ftr-anch:hover{
+	color:white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.static-nav-slink-space{
+	color: #005883;
+	padding-left: 2px;
+	padding-top: -2px;
+}
+
+#cart{
+	color: #005883;
+}
+
+#cart-anch{
+	margin-top: -4px;
+	padding: 0px;
+}
+
+.controls{
+	width: 300px;	
+}
+
+h2, label{
+	color: #005883;
+}
+
+.control-group{
+	margin-bottom: 10px;
+}
+
+.control-label{
+	width: 280px;
+}
+
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: url('../res/home.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 1500px;
+    opacity: 10%;
+}
+
+.wrap{
+	min-height:100%;
+	position:relative;
+	margin-bottom: 100px;
+}
+
+#ext{
+	width: 50px;
+}
+
+.err-msg{
+	color: red;
+}

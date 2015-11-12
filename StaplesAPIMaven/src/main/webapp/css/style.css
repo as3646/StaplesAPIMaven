@@ -1,0 +1,76 @@
+#main-menu {
+  width:100%;
+  height: 100%;
+  margin: 0 auto;
+  padding-top:100px;
+  overflow: hidden;
+}
+
+#main-menu li {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  vertical-align:text-top;
+  border-radius: 75px;
+}
+#main-menu li, #main-menu a {
+  display:inline-block;	
+  
+}
+#main-menu li a{
+  text-align:center;
+  text-decoration:none;
+  color: white;
+} 
+
+#menu-item-1, #menu-item-2, #menu-item-3{
+  background: red;
+  margin-left: 100px;
+  vertical-align:middle;
+  line-height:120px;
+  font-weight: bolder;
+}
+
+#menu-item-1 {
+  animation: bounce-1 5000ms ease-out;
+}
+#menu-item-2 {
+  animation: bounce-2 5000ms ease-out;
+}
+#menu-item-3 {
+  animation: bounce-3 5000ms ease-out;
+}
+#menu-item-4 {
+  background: red;
+}
+#menu-item-5 {
+  background: red;
+}
+#menu-item-6 {
+  background: red;
+}
+
+@keyframes bounce-1 {
+    0%   {top: 0px; left: 0px; background: red;}
+    25%  {top: 0px; left: 100px; background: blue;}
+    50%  {top: 100px; left: 100px; background: yellow;}
+    75%  {top: 100px; left: 0px; background: green;}
+    100% {top: 0px; left: 0px; background: red;}
+}
+
+@keyframes bounce-2 {
+    0%   {top: 0px; left:100px; background: red;}
+    25%  {top: -100px; left: 100px; background: blue;}
+    50%  {top: -100px; left: 300px; background: yellow;}
+    75%  {top: 0px; left: 300px; background: green;}
+    100% {top: 0px; left: 100px; background: red;}
+}
+
+@keyframes bounce-3 {
+    0%   {top: 300px; left: 300px; background: red;}
+    25%  {top: 300px; left: 500px; background: blue;}
+    50%  {top: 500px; left: 500px; background: yellow;}
+    75%  {top: 500px; left: 400px; background: green;}
+    100% {top: 300px; left: 300px; background: red;}
+}
